@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="WebDriver" duration-ms="11190" started-at="2018-10-09T11:08:07Z" finished-at="2018-10-09T11:08:18Z">
+  <suite name="WebDriver" duration-ms="4425" started-at="2018-10-14T19:27:58Z" finished-at="2018-10-14T19:28:02Z">
     <groups>
     </groups>
-    <test name="WebDriver" duration-ms="11190" started-at="2018-10-09T11:08:07Z" finished-at="2018-10-09T11:08:18Z">
+    <test name="WebDriver" duration-ms="4425" started-at="2018-10-14T19:27:58Z" finished-at="2018-10-14T19:28:02Z">
       <class name="Website_test.NewTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Website_test.NewTest@42e26948]" name="beforeMethod" is-config="true" duration-ms="6867" started-at="2018-10-09T11:08:07Z" finished-at="2018-10-09T11:08:13Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Website_test.NewTest@42e26948]" name="beforeMethod" is-config="true" duration-ms="4148" started-at="2018-10-14T19:27:58Z" finished-at="2018-10-14T19:28:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyuser()[pri:0, instance:Website_test.NewTest@42e26948]" name="verifyuser" duration-ms="4251" started-at="2018-10-09T11:08:13Z" finished-at="2018-10-09T11:08:18Z">
+        <test-method status="PASS" signature="verifyuser()[pri:0, instance:Website_test.NewTest@42e26948]" name="verifyuser" duration-ms="258" started-at="2018-10-14T19:28:02Z" finished-at="2018-10-14T19:28:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyuser -->
