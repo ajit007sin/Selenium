@@ -40,7 +40,7 @@
         <configuration>
         <useSystemClassLoader>false</useSystemClassLoader>
           <suiteXmlFiles>
-            <suiteXmlFile>testng.xml</suiteXmlFile>
+            <suiteXmlFile>Selenium_Website.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
